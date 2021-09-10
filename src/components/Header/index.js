@@ -81,7 +81,7 @@ class Header extends Component {
                   root: classes.btn,
                 }}
               >
-                test1
+                test
               </Button>
             </Box>
           </Toolbar>
